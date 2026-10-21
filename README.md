@@ -9,10 +9,10 @@
 | 项目 | 用途 |
 | --- | --- |
 | [AI 商品素材工厂](https://github.com/006IDC/ai-commerce-asset-factory) | 电商商品图片、详情页、视频任务与素材管理 |
-| [商品拼团](https://github.com/006IDC/community_group_buy) | V10 商品拼团与可控补贴活动 |
-| [用户等级与推广权益](https://github.com/006IDC/IdcsmartClientLevel) | V10 等级、消费与推广贡献、权益和提现流程 |
-| [易支付 V1 网关](https://github.com/006IDC/EasyPayGateway) | V10 易支付 V1 聚合收银台接入 |
-| [极验 GT4](https://github.com/006IDC/geetest_captcha) | V10 极验第四代人机验证 |
+| [V10 商品拼团插件（开源版）](https://github.com/006IDC/v10-group-buy-public) | V10 商品拼团与可控补贴活动 |
+| [V10 用户等级与推广权益插件（开源版）](https://github.com/006IDC/v10-client-level-public) | V10 等级、消费与推广贡献、权益和提现流程 |
+| [V10 易支付 V1 网关插件（开源版）](https://github.com/006IDC/v10-easypay-gateway-public) | V10 易支付 V1 聚合收银台接入 |
+| [V10 极验 GT4 插件（开源版）](https://github.com/006IDC/v10-geetest-gt4-public) | V10 极验第四代人机验证 |
 
 ## 使用与协作
 

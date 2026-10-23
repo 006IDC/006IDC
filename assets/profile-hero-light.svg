@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">006IDC · 零零陆云计算</title>
+  <desc id="desc">以品牌橙色与蓝色连接软件模块的静态品牌横幅。</desc>
+  <rect width="960" height="280" rx="20" fill="#f3f7fc"/>
+  <path d="M594 0v280M676 0v280M758 0v280M840 0v280M922 0v280M560 58h400M560 140h400M560 222h400" stroke="#d7e3f2" stroke-opacity=".45"/>
+  <rect x="48" y="44" width="36" height="5" rx="2.5" fill="#bd620e"/>
+  <text x="48" y="143" fill="#152c4d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="80" font-weight="750" letter-spacing="-3">006IDC<tspan fill="#bd620e">.</tspan></text>
+  <text x="52" y="196" fill="#526681" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="500" letter-spacing="3">零零陆云计算</text>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M671 104h60a26 26 0 0 1 26 26v55h42" fill="none" stroke="#3d6ec6" stroke-width="3"/>
+    <path d="M671 104v81h46" fill="none" stroke="#bd620e" stroke-width="3"/>
+    <rect x="606" y="48" width="132" height="110" rx="20" fill="#ffffff" stroke="#d7e3f2" stroke-width="2"/>
+    <path d="m650 90-15 14 15 14m44-28 15 14-15 14m-18-36-8 44" fill="none" stroke="#3d6ec6" stroke-width="4"/>
+    <rect x="790" y="142" width="104" height="88" rx="18" fill="#ffffff" stroke="#d7e3f2" stroke-width="2"/>
+    <rect x="813" y="163" width="20" height="20" rx="5" fill="#bd620e"/>
+    <path d="M846 168h25M846 178h18M813 199h58M813 211h36" stroke="#526681" stroke-width="3"/>
+    <circle cx="730" cy="185" r="9" fill="#bd620e"/>
+  </g>
+</svg>

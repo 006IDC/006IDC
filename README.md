@@ -1,42 +1,41 @@
-<img src="assets/006idc-logo.png" alt="006IDC 零零陆云计算" width="168">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg">
+  <img src="assets/profile-hero-light.svg" alt="006IDC · 零零陆云计算 — 开源软件与实用工具" width="100%">
+</picture>
 
-# 006IDC · 零零陆云计算
+# 电商 AI 应用与 V10 业务扩展
 
-一人维护的开源软件工作室，专注商业场景中的业务插件与 AI 应用。
+**006IDC · 零零陆云计算** 围绕商品内容制作与云业务系统，开发和维护实用软件，分享源码、文档与版本更新。
 
-## 主页概览
+[探索 AI 应用](#ai-商品素材工厂) · [查看 V10 插件](#v10-开源插件) · [全部开源仓库](https://github.com/006IDC?tab=repositories&type=public)
 
-<table>
-<thead><tr><th width="90">项目</th><th>当前说明</th></tr></thead>
-<tbody>
-  <tr><td>类型</td><td>006IDC 账号公开主页</td></tr>
-  <tr><td>版本</td><td>内容按实际提交维护；产品版本以各自仓库为准</td></tr>
-  <tr><td>技术名</td><td>006IDC/006IDC，保留账号主页所需名称</td></tr>
-</tbody>
-</table>
+## AI 商品素材工厂
 
-## 公开项目
+面向电商商家的 AI 商品素材工作台。从商品建档到图片、详情页与视频任务，在同一工作台管理商品内容与素材。
 
-| 项目 | 用途 |
-| --- | --- |
-| [AI 商品素材工厂](https://github.com/006IDC/ai-commerce-asset-factory) | 电商商品图片、详情页、视频任务与素材管理 |
-| [V10 商品拼团插件（开源版）](https://github.com/006IDC/v10-group-buy-public) | V10 商品拼团与可控补贴活动 |
-| [V10 用户等级与推广权益插件（开源版）](https://github.com/006IDC/v10-client-level-public) | V10 等级、消费与推广贡献、权益和提现流程 |
-| [V10 易支付 V1 网关插件（开源版）](https://github.com/006IDC/v10-easypay-gateway-public) | V10 易支付 V1 聚合收银台接入 |
-| [V10 极验 GT4 插件（开源版）](https://github.com/006IDC/v10-geetest-gt4-public) | V10 极验第四代人机验证 |
+**商品资料 → 图片创作 → 详情页 → 视频任务 → 素材管理**
 
-## 使用与协作
+[进入项目 →](https://github.com/006IDC/ai-commerce-asset-factory) [使用文档](https://github.com/006IDC/ai-commerce-asset-factory/blob/main/docs/repository-guide.md) [版本发布](https://github.com/006IDC/ai-commerce-asset-factory/releases)
 
-安装、升级、兼容性及安全边界以各项目文档为准。请下载对应 Release 中的正式安装包；GitHub 自动生成的源码归档与可安装发行包可能用途不同。
+## V10 开源插件
 
-各产品仓库提供工作流定义、变更记录与安装说明；具体检查是否通过、发行包和校验资产是否提供，以该仓库实际运行记录和 Release 内容为准。可部署、可追溯与保护凭据和业务数据是维护目标，不以主页文字替代逐版本验证。
+为 ZJMF-CBAP V10 提供活动、用户权益、支付与人机验证扩展。
 
-问题反馈和贡献方式请查看具体仓库的 Issue、贡献与安全说明。
+- **[商品拼团](https://github.com/006IDC/v10-group-buy-public)**<br>
+  多人开团、邀请分享与优惠活动。
+- **[用户等级与推广权益](https://github.com/006IDC/v10-client-level-public)**<br>
+  消费与推广贡献评定、等级权益及提现衔接。
+- **[易支付 V1 网关](https://github.com/006IDC/v10-easypay-gateway-public)**<br>
+  聚合收银台接入、支付通知校验与原生入账。
+- **[极验 GT4](https://github.com/006IDC/v10-geetest-gt4-public)**<br>
+  为启用的安全业务场景提供人机验证。
 
-## 版本演进
+## 使用与反馈
 
-主页调整见[变更记录](CHANGELOG.md)与[历史范围](docs/history-overview.md)。本仓不存放产品源码或发行包，具体版本请进入对应项目。
+1. **选择项目**：先阅读对应 README，核对适用版本、依赖与部署说明。
+2. **获取版本**：在项目 Releases 与更新记录中核对所需版本，按项目说明选用发行包或源码。
+3. **交流改进**：通过对应项目的 Issues 反馈问题或提交建议，欢迎贡献 Pull Request。安全问题请先查看对应仓库的反馈说明。
 
-## 维护与权利
+---
 
-<sub>公开仓库均为独立开源项目；第三方产品、商标、版权及许可证归各自权利人所有。</sub>
+<sub>独立开源项目 · 许可与第三方权利以各仓库说明为准 · [主页变更记录](CHANGELOG.md)</sub>
